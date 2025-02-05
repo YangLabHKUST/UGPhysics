@@ -63,9 +63,12 @@ python codes/eval.py --model_path ${MODEL} --subject ${SUBJECT}
 ```
 
 ## 💬 Citation
+Thanks for the open source code of [OlympiadBench](https://github.com/OpenBMB/OlympiadBench) and [OlympicArena](https://github.com/GAIR-NLP/OlympicArena).
+Our `README.md` is adapted from [OmniMath](https://github.com/KbsdJames/Omni-MATH).
+
 If you find our work interesting and meaningful, welcome to give a 🌟 to our repo and cite our paper.
 ```
-@misc{xu2025ugphysicscomprehensivebenchmarkundergraduate,
+@misc{xu2025ugphysics,
       title={UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models}, 
       author={Xin Xu and Qiyun Xu and Tong Xiao and Tianhao Chen and Yuchen Yan and Jiaxin Zhang and Shizhe Diao and Can Yang and Yang Wang},
       year={2025},
