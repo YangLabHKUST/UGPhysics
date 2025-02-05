@@ -8,7 +8,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/Paper-Arxiv-red">
     </a>
     <a href="https://huggingface.co/datasets/UGPhysics/ugphysics">
-        <img alt="Static Badge" src="https://img.shields.io/badge/HFDataset-OmniMATH-yellow">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HFDataset-UGPhysics-yellow">
     </a>
 </p>
 
