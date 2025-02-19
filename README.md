@@ -68,13 +68,10 @@ Our `README.md` is adapted from [OmniMath](https://github.com/KbsdJames/Omni-MAT
 
 If you find our work interesting and meaningful, welcome to give a 🌟 to our repo and cite our paper.
 ```
-@misc{xu2025ugphysics,
-      title={UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models}, 
-      author={Xin Xu and Qiyun Xu and Tong Xiao and Tianhao Chen and Yuchen Yan and Jiaxin Zhang and Shizhe Diao and Can Yang and Yang Wang},
-      year={2025},
-      eprint={2502.00334},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.00334}, 
+@article{xu2025ugphysics,
+  title={UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models},
+  author={Xu, Xin and Xu, Qiyun and Xiao, Tong and Chen, Tianhao and Yan, Yuchen and Zhang, Jiaxin and Diao, Shizhe and Yang, Can and Wang, Yang},
+  journal={arXiv preprint arXiv:2502.00334},
+  year={2025}
 }
 ```
