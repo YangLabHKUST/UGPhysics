@@ -38,7 +38,6 @@ def generate(model_path: str,
     Parameters:
         model_path: Path to your model
         dataset_path: Path to your dataset. We provide some data in eval/input as examples. If you wat to use your own dataset, please convert the dataset to json format with a list of test samples. Each sample contains at least "answer" and "type". 
-        prompt: The prompt to evaluate. We provide some propmts in prompt.json and you can add new prompts following our examples.
         output_path: Path to save the results.
         tensor_parallel_size: The number of GPUs you want to use. 
         test_part: The range of data to be processed. [low, high]. If left None, will process all the data. 
